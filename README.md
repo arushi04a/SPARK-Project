@@ -6,16 +6,16 @@ The platform also includes **Sparky**, an AI chatbot powered by **Groq API** for
 
 ---
 
-## Overview
+##🌟 Overview
 
-SPARK includes the following major modules:
+SPARK integrates multiple AI-driven modules to deliver a complete career support system:
 
-* **Resume Analysis** using Groq LLaMA 3.1B-Instant + Gemini API
-* **AI-Based Domain Quiz** (24 domains, 3 difficulty levels)
-* **26 Complete Career Roadmaps**
-* **Sparky Chatbot (Groq API)**
-* **User Login System**
-* **Modern HTML/CSS/JS Frontend**
+*📄 Resume Analysis (ATS + AI Suggestions)
+*🧠 AI-Based Domain Quiz (24 domains)
+*🛣️ 26 Structured Career Roadmaps
+*🤖 Sparky — Real-time AI Chatbot
+*🔐 User Authentication System
+*🎨 Modern Frontend (HTML/CSS/JS)
 
 ---
 
@@ -26,26 +26,25 @@ SPARK includes the following major modules:
 **ATS Score (Groq API)**
 
 * Model: **LLaMA 3.1B-Instant**
-* Evaluates keyword match, resume structure, job-role alignment, and skills
+* Evaluates keyword match, resume structure, job-role alignment, and skills  
 
 **AI-Powered Suggestions (Gemini API)**
 
-* Advice is provided to user for itsbetterment
+* Provides personalized recommendations to improve resume quality  
 
 **Course Suggestions (Gemini API)**
 
-* Based on analysing the resume 
+* Recommends relevant courses based on resume analysis  
 
 **Project Recommendations**
 
-* Recommeneded on the basis of user job description and resume analysis
+* Suggests projects aligned with user skills and target job roles  
 
 **Job Openings**
 
-* Currently active job openings on various platforms
+* Displays currently active job opportunities across platforms  
 
 ---
-
 ## 🧠 AI Domain Quiz (24 Domains)
 
 ### Powered by Gemini API
@@ -135,8 +134,7 @@ Carrier_Catalyst/
 ### 1. Clone the repository
 
 ```bash
-git clone git clone https://github.com/Sujal-Core/SPARK.git
-cd SPARK
+git clone https://github.com/arushi04a/SPARK-Project.git
 ```
 
 ### 2. Create a virtual environment
@@ -210,20 +208,9 @@ python run.py
 
 ---
 
-## 📄 License
 
-Licensed under **GNU AGPLv3**, requiring:
-
-* Attribution
-* Open-source continuation
-* No closed-source redistribution
-
----
 
 ## 👤 Author
-
-**Sujal**
-
-Developer | AI & ML Enthusiast
+arushi 
 
 
