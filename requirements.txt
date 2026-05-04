@@ -1,0 +1,38 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+python-dotenv==1.0.1
+Werkzeug==3.0.1
+
+# LLM APIs
+groq
+google-generativeai
+
+# Resume extraction
+pdfminer.six==20231228
+python-docx==1.1.0
+docx2txt==0.8
+PyMuPDF==1.23.7
+PyPDF2==3.0.1
+pytesseract==0.3.10
+pdf2image==1.17.0
+
+# Data + processing
+numpy==1.26.4
+pandas==2.2.1
+ujson==5.9.0
+
+# Security / password hashing
+bcrypt==4.1.2
+
+# Email + SMTP
+Flask-Mail==0.9.1
+
+# Sentiment analysis
+vaderSentiment==3.3.2
+
+# Utilities
+beautifulsoup4==4.12.3
+requests==2.31.0
+
+# Deployment (optional)
+gunicorn==21.2.0

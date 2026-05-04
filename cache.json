@@ -1,0 +1,471 @@
+{
+  "0daca8e5cbd9e4934c7f7308d5e8bf57be00e44275124c7d32514e3b55133dac": {
+    "ats_score": 95,
+    "advice": "",
+    "recommended_courses": [
+      {
+        "name": "Research Fundamentals",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org"
+      },
+      {
+        "name": "Advanced Research",
+        "platform": "Udemy",
+        "url": "https://www.udemy.com"
+      },
+      {
+        "name": "Research Mastery",
+        "platform": "edX",
+        "url": "https://www.edx.org"
+      }
+    ],
+    "project_ideas": [],
+    "job_openings": [
+      {
+        "title": "Web Developer - Company A",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs"
+      },
+      {
+        "title": "Web Developer - Company B",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com"
+      },
+      {
+        "title": "Web Developer - Company C",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com"
+      }
+    ]
+  },
+  "ec188a98158445385ef47abbe2fe186967e3e927d117ed95d9a4d6809afaeaae": {
+    "ats_score": 95,
+    "advice": "Given your background in data science, machine learning, and your projects involving large datasets, shifting towards a data engineering role seems like a natural progression. Focus on highlighting your skills in data preprocessing, database technologies, and your experience with tools like Pandas, NumPy, and SQL. Tailor your resume to emphasize data pipeline development and management skills. Network with data engineers and explore opportunities to learn more about cloud-based data warehousing solutions.",
+    "recommended_courses": [
+      {
+        "name": "Data Engineering on Google Cloud Platform Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/data-engineering-gcp"
+      },
+      {
+        "name": "AWS Certified Data Engineer \u2013 Associate",
+        "platform": "AWS Training",
+        "url": "https://aws.amazon.com/training/certification/"
+      },
+      {
+        "name": "Azure Data Engineer Associate Certification",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-data-engineer"
+      }
+    ],
+    "project_ideas": [
+      "Build a data pipeline using Apache Kafka and Spark to process real-time data.",
+      "Create a data warehouse using cloud-based services like AWS Redshift or Google BigQuery.",
+      "Develop an ETL (Extract, Transform, Load) process to migrate data from a legacy system to a modern data lake."
+    ],
+    "job_openings": [
+      {
+        "title": "Data Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer"
+      },
+      {
+        "title": "Data Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/jobs?q=data+engineer"
+      },
+      {
+        "title": "Data Engineer",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/data-engineer-jobs-SRCH_KO0,13.htm"
+      }
+    ]
+  },
+  "441814b8e4bca1ea7ce673081919f0f26d025a0c9eacd5b68ca199f830582f8e": {
+    "ats_score": 95,
+    "advice": "",
+    "recommended_courses": [],
+    "project_ideas": [],
+    "job_openings": []
+  },
+  "02dd17f8ae3f7a628cd1bfad3cdfdf35a07159c36d8e181fc65177242228bc85": {
+    "ats_score": 95,
+    "advice": "Given your strong background in AI and ML, particularly in healthcare and IoT security, focus on highlighting the practical applications of your projects and publications. Tailor your resume to emphasize the impact you made in each role and project, quantifying your achievements whenever possible (e.g., increased accuracy, reduced false positives). Network with professionals in AI and ML at industry events or online communities to discover unadvertised opportunities and get insights.",
+    "recommended_courses": [
+      {
+        "name": "Advanced Machine Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/advanced-machine-learning"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      }
+    ],
+    "project_ideas": [
+      "Develop an AI-powered personalized learning platform.",
+      "Create a predictive maintenance system for industrial equipment using sensor data.",
+      "Build a fraud detection system for financial transactions using anomaly detection techniques."
+    ],
+    "job_openings": [
+      {
+        "title": "Machine Learning Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/view/3951120382"
+      },
+      {
+        "title": "AI Research Scientist",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/viewjob?jk=a9e94e95c596280e"
+      }
+    ]
+  },
+  "9ef53b24b7ccbb321942aac67eac91f4c89ca3ec9f4878b543e86e18b82d0595": {
+    "ats_score": 92,
+    "advice": "With your strong foundation in AI/ML and hands-on experience in generative AI, NLP, and deep learning, you're well-positioned to pursue roles in these exciting fields. Showcase your project work and technical skills prominently on your resume and LinkedIn. Tailor your resume to match specific job descriptions, highlighting relevant experiences. Consider networking with professionals in the AI/ML community to discover more opportunities and gain industry insights.",
+    "recommended_courses": [
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "name": "Natural Language Processing Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/natural-language-processing"
+      },
+      {
+        "name": "TensorFlow Developer Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+      }
+    ],
+    "project_ideas": [
+      "Develop a personalized recommendation system using collaborative filtering and content-based filtering.",
+      "Build a generative AI model to create realistic synthetic data for various applications.",
+      "Create a chatbot using LLMs to answer questions and help users."
+    ],
+    "job_openings": [
+      {
+        "title": "AI/ML Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=AI%2FML%20Engineer"
+      },
+      {
+        "title": "Data Scientist",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/jobs?q=Data+Scientist"
+      },
+      {
+        "title": "Machine Learning Intern",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/machine-learning-intern-jobs-SRCH_KO0,23.htm"
+      }
+    ]
+  },
+  "2a2075343219aa661e49b68ee286ec981a981774f046478821c5298105914b01": {
+    "ats_score": 92,
+    "advice": "You have a strong foundation in data science and machine learning, showcased through your projects and internships. To become a data engineer, focus on strengthening your understanding of data warehousing, ETL processes, and cloud computing. Highlight your experience with SQL and consider learning data engineering tools like Apache Spark and Apache Kafka. Networking with data engineers can also provide valuable insights into the field.",
+    "recommended_courses": [
+      {
+        "name": "Data Engineering Professional Certificate",
+        "platform": "Google Coursera",
+        "url": "https://www.coursera.org/professional-certificates/google-data-engineering"
+      },
+      {
+        "name": "AWS Certified Data Engineer - Associate",
+        "platform": "Amazon Web Services",
+        "url": "https://aws.amazon.com/certification/certified-data-engineer-associate/"
+      },
+      {
+        "name": "Azure Data Engineer Associate",
+        "platform": "Microsoft",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-data-engineer/"
+      }
+    ],
+    "project_ideas": [
+      "Build a data pipeline to ingest data from multiple sources (e.g., APIs, databases) and load it into a data warehouse.",
+      "Create a real-time data streaming application using Apache Kafka to process sensor data.",
+      "Design and implement a data lake solution using cloud storage (e.g., AWS S3, Azure Data Lake Storage) and big data processing tools."
+    ],
+    "job_openings": [
+      {
+        "title": "Data Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer"
+      },
+      {
+        "title": "Junior Data Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/jobs?q=Junior%20Data%20Engineer"
+      },
+      {
+        "title": "Associate Data Engineer",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/data-engineer-jobs-SRCH_KO0,13.htm"
+      }
+    ]
+  },
+  "bc8371cbf0abc4815bf70e637465ea8d857f63349c75e13c51416e6098cc213e": {
+    "ats_score": 92,
+    "advice": "Your resume showcases a strong foundation in AI/ML with practical experience, especially in generative AI. To further enhance your job prospects, focus on quantifying your project achievements with specific metrics and highlighting your contributions to team projects. Consider tailoring your resume to match the specific requirements of each job application, emphasizing the skills and experiences most relevant to the role. Also, think about adding a portfolio website to showcase your projects in a more interactive and engaging way.",
+    "recommended_courses": [
+      {
+        "name": "Advanced Machine Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/advanced-machine-learning"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "name": "TensorFlow Developer Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+      }
+    ],
+    "project_ideas": [
+      "Develop an AI-powered personalized learning platform.",
+      "Build a generative AI model for creating synthetic data for medical imaging.",
+      "Create a chatbot that provides mental health support using NLP techniques."
+    ],
+    "job_openings": [
+      {
+        "title": "AI Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/ai-engineer-jobs/"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/q-Machine-Learning-Engineer-jobs.html"
+      },
+      {
+        "title": "Data Scientist",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/data-scientist-jobs-SRCH_KO0,14.htm"
+      }
+    ]
+  },
+  "8f33c9aa370a6ce24ee75b8c9d20bec01d1508ae7390172e601608d9b3f124bf": {
+    "ats_score": 92,
+    "advice": "Your resume showcases impressive AI/ML skills and project experience, particularly in Generative AI and NLP. To further strengthen your profile, consider focusing on a specific niche within AI, like LLM fine-tuning or computer vision applications, and build a portfolio showcasing your expertise. Networking within the AI community and contributing to open-source projects will also boost your visibility to potential employers. Tailor your resume to each job application, highlighting the skills and experiences most relevant to the role.",
+    "recommended_courses": [
+      {
+        "name": "Generative AI with Large Language Models",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/generative-ai-with-llms"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "name": "Natural Language Processing Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/natural-language-processing"
+      }
+    ],
+    "project_ideas": [
+      "Develop a fine-tuned LLM for code generation or question answering, deploying it with a serverless function.",
+      "Create a computer vision application for object detection or image segmentation, focusing on a specific industry (e.g., healthcare, retail).",
+      "Build an AI-powered tool for data augmentation, using generative models to create synthetic data for training other models."
+    ],
+    "job_openings": [
+      {
+        "title": "AI Research Intern",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/view/3981722893/"
+      },
+      {
+        "title": "Machine Learning Engineer Intern",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/jobs?q=machine+learning+intern&l=Remote&vjk=6681237260474c0e"
+      },
+      {
+        "title": "Data Scientist Intern",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/data-scientist-intern-jobs-SRCH_KO0,21.htm"
+      }
+    ]
+  },
+  "04e29284608a1b8c5a7d3e8544553f20dc5a2626ccb87cdd0062825c38ab1a58": {
+    "ats_score": 92,
+    "advice": "Based on your resume, you have a strong foundation in data science and machine learning.  Focus on projects that showcase your ability to apply deep learning to real-world problems, particularly in areas like NLP or computer vision, as you have experience in both.  Consider contributing to open-source projects to expand your portfolio and network. Tailor your resume and cover letter to highlight the skills most relevant to each specific job application.",
+    "recommended_courses": [
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "name": "TensorFlow Developer Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+      },
+      {
+        "name": "Advanced Machine Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/advanced-machine-learning"
+      }
+    ],
+    "project_ideas": [
+      "Develop a sentiment analysis model for customer reviews using Transformer networks.",
+      "Build a computer vision application for object detection in images or videos.",
+      "Create a recommendation system using collaborative filtering or content-based filtering techniques."
+    ],
+    "job_openings": [
+      {
+        "title": "Data Scientist",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/data-scientist-jobs/"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/q-Machine-Learning-Engineer-jobs.html"
+      },
+      {
+        "title": "AI Engineer",
+        "platform": "Glassdoor",
+        "url": "https://www.glassdoor.com/Job/ai-engineer-jobs-SRCH_KO0,11.htm"
+      }
+    ]
+  },
+  "2a4b351b9d3987cd7185c49130aa2c6455acca240ac2f8f2391349e62f92467f": {
+    "ats_score": 92,
+    "advice": "Given your strong background in AI and ML, particularly in healthcare and IoT security, you're well-positioned for roles that require both research and practical application. Focus on highlighting your experience with specific deep learning architectures and optimization techniques like Genetic Algorithms. Tailor your resume and cover letter to match the specific requirements of each job application, emphasizing how your skills and project experiences align with the company's needs. Consider refining your GitHub profile with detailed project documentation to showcase your code and contributions.",
+    "recommended_courses": [
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      },
+      {
+        "name": "Advanced Machine Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/advanced-machine-learning"
+      }
+    ],
+    "project_ideas": [
+      "Develop an AI-powered diagnostic tool for a specific disease using medical imaging data.",
+      "Build a cybersecurity system to detect and respond to threats in smart home environments.",
+      "Create a personalized recommendation system for educational resources using NLP."
+    ],
+    "job_openings": [
+      {
+        "title": "AI Engineer",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/q-machine-learning-engineer-jobs.html"
+      }
+    ]
+  },
+  "3b83c7fd077c1aee2e1ca5e35908dc90285781b734ab7ff745307e18d8248e99": {
+    "ats_score": 92,
+    "advice": "Your resume highlights a strong foundation in AI and ML with relevant projects and internships. To further enhance your profile, focus on quantifying your achievements (e.g., reduced false positives by X%) and tailoring your resume to each specific job application. Networking with professionals in your desired field can also open doors to new opportunities. Consider specializing in a niche area within AI/ML to stand out.",
+    "recommended_courses": [
+      {
+        "name": "TensorFlow Developer Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/deep-learning"
+      }
+    ],
+    "project_ideas": [
+      "Develop a generative model (GAN) for creating synthetic healthcare data to address data scarcity issues.",
+      "Build a reinforcement learning model to optimize resource allocation in cloud computing environments.",
+      "Create a chatbot using NLP techniques for customer support in a specific industry (e.g., finance, education)."
+    ],
+    "job_openings": [
+      {
+        "title": "Data Scientist",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/data-scientist-jobs/"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/q-Machine-Learning-Engineer-jobs.html"
+      }
+    ]
+  },
+  "eb500a3e55ddc003cd165f67d742aae2437525fd059371275ea3fec04ecd8221": {
+    "ats_score": 92,
+    "advice": "Given your background in data science, machine learning, and web development, you're well-positioned for developer roles. Focus on showcasing your project experience, especially the Intrusion Detection System and Spark projects, as they demonstrate proficiency in relevant technologies. Tailor your resume to emphasize the specific skills and technologies mentioned in the job descriptions you're applying for. Consider highlighting your experience with specific frameworks like Flask or Streamlit if the job requires them.",
+    "recommended_courses": [
+      {
+        "name": "Full Stack Web Development with React",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/full-stack-react"
+      },
+      {
+        "name": "Advanced Machine Learning Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/advanced-machine-learning"
+      }
+    ],
+    "project_ideas": [
+      "Develop a REST API using Flask or FastAPI to serve machine learning predictions.",
+      "Build a data visualization dashboard using React and a charting library like Chart.js or D3.js.",
+      "Contribute to an open-source machine learning or web development project on GitHub."
+    ],
+    "job_openings": [
+      {
+        "title": "Software Engineer (Machine Learning)",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Engineer"
+      },
+      {
+        "title": "Full Stack Developer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com/jobs?q=full%20stack%20developer"
+      }
+    ]
+  },
+  "e08fa56ad9b20e9d4753adbcf84b3a0448566a3eddfb59d6c671a8532fd6bd17": {
+    "ats_score": 78,
+    "advice": "Given your background in developing an Intrusion Detection System (IDS) using deep learning, you should focus on showcasing the practical impact of your projects and internships on your resume. Quantify your achievements whenever possible (e.g., \"Improved anomaly detection accuracy by X%\"). Tailor your resume to highlight your cybersecurity-related skills, such as intrusion detection and anomaly detection. Be sure to list any relevant certifications you may have obtained or be pursuing.",
+    "recommended_courses": [
+      {
+        "name": "Cybersecurity Specialization",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/cybersecurity"
+      },
+      {
+        "name": "Certified Ethical Hacker (CEH)",
+        "platform": "EC-Council",
+        "url": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+      }
+    ],
+    "project_ideas": [
+      "Build a honeypot to attract and analyze attacker behavior.",
+      "Develop a script to automate vulnerability scanning.",
+      "Contribute to an open-source cybersecurity project."
+    ],
+    "job_openings": [
+      {
+        "title": "Security Engineer",
+        "platform": "Indeed",
+        "url": "https://www.indeed.com"
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/jobs"
+      }
+    ]
+  }
+}
