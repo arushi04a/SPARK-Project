@@ -1,5 +1,7 @@
 # SPARK-Project
 SPARK is a Flask-based career mentorship platform integrating AI-driven resume analysis, dynamic quizzes, domain-specific roadmaps, and a real-time chatbot (‘Sparky’) powered by Groq API to deliver personalized career insights.
+
+
 🌟 Overview
 
 SPARK integrates multiple AI-driven modules to deliver a complete career support system:
@@ -10,6 +12,7 @@ SPARK integrates multiple AI-driven modules to deliver a complete career support
 🤖 Sparky — Real-time AI Chatbot
 🔐 User Authentication System
 🎨 Modern Frontend (HTML/CSS/JS)
+
 
 ✨ Key Features
 🧾 Resume Analysis
@@ -23,6 +26,8 @@ Project Suggestions
 Based on user skills and target job roles
 Job Openings
 Displays relevant active opportunities
+
+
 
 🧠 AI Domain Quiz (24 Domains)
 Powered by Gemini API
